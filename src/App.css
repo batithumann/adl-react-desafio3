@@ -1,0 +1,11 @@
+body, .App, input, .list-group-item {
+  background-color: #F1FAEE !important;
+}
+
+.bg-dark {
+  background-color: #1D3557 !important;
+}
+
+.btn-primary {
+  background-color: #457B9D !important;
+}
